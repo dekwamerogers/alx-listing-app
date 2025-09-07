@@ -24,4 +24,4 @@ Follow these steps to set up and run the project locally.
 
     npm run dev
 
-**3. View the App:** Open your browser and visit http://localhost:3000 to see the application running.
+**3. View the App:** Open your browser and visit [http://localhost:3000](http://localhost:3000/) to see the application running.
